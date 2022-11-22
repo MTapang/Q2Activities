@@ -1,0 +1,25 @@
+body{
+	border-style: solid;
+	border-color: #6A4254 ;
+	border-width: 20px;
+}
+
+.Div1{
+	background-color: #F0D4D8 ;
+	padding: 10px 10px 10px;
+	margin:  auto;
+}
+.Div2{
+	background-color: #D5B8DD ;
+	padding: 10px 10px 10px ;
+	margin:  auto;
+}
+h1{
+	font-family: Tahoma ;
+	color: maroon ;
+}
+img{
+	border-style: solid ; 
+	border-color: #6A4254 ;
+	border-width: 8px ;
+}
